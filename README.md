@@ -11,7 +11,7 @@
 > - Instalação de **PYTHON** na maquina no link https://www.python.org/downloads/
 > - Após abrir o VsCode executar os comando:
 - python -m venv venv
-- .\venvzScripts\Activate
+- .\venv\Scripts\Activate
 - pip install dash
 - pip install dash-bootstrap-components pandas dash-bootstrap-templates
 - python index.py
